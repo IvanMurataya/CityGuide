@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">City Guide</string>}
+    <string name="logo_name">Get a Way</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">Powered by Ivan Murataya</string>
+
+    <!-- Boarding Screen  -->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make a Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back and Enjoy</string>
+
+    <string name="first_slide_desc">You can search any place nearby or with in the specified city</string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us</string>
+    <string name="third_slide_desc">If you have a shop or something and you want to be part of our grownig industry, add your place </string>
+    <string name="fourth_slide_desc">We will handle everything four you. As you have you have the app in your pocket</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--String for Dashboard -->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+    <string name="education">Education</string>
+    <!--Titles and descriptions-->
+    <string name="featured_locations">All FEatured Locations</string>
+    <string name="featured_locations_description">All the locations that are featured and have the top demand in town!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search Text</string>
+    <!--Menu-->
+    <string name="home">HOME</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+    <string name="car_rent">Car Rent</string>
+    <string name="expand_all">Expand All</string>
+    <string name="all_shops">All Shops</string>
+
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to grow your business using online services!</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work?</string>
+    <string name="remerber_me">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_pgone_number">Phone Number</string>
+
+    <string name="otp_code_text">Co\nde</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on\n92333</string>
+    <string name="forget_password_detail">Provide your account´s email for which you want to reset your password!</string>
+    <string name="make_selection_detail">Select which contact detail should we use to reset your password</string>
+    <string name="make_selection">Make\nselection</string>
+    <string name="via_sms">Via sms</string>
+    <string name="via_mail">Via Mail</string>
+    <string name="new_credentials">New\nCredentials</string>
+    <string name="new_credentials_detail">Your Identity has been Verified! Set Your New Password</string>
+    <string name="password_updated">Password Updated</string>
+    <string name="password_updated_success_message">Your Password Has been Updated</string>
+
+
+</resources>
